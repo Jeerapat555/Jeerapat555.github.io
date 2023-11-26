@@ -324,7 +324,10 @@ div.qrthaimooc{
 
 @media(max-width : 920px) {
 
+    
+
     .navbar{
+        /* display: none; */
         position: absolute;
         
     }
@@ -351,6 +354,11 @@ div.qrthaimooc{
     }
 
 @media(max-width : 420px) {
+
+    img{
+        width: 70%;
+    }
+
     body,h1,h2,h5  {
     font-size: 93%  ;
     }
@@ -376,5 +384,3 @@ div.qrthaimooc{
     background: #222;
 }
 }
-
-
