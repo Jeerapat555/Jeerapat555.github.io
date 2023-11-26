@@ -240,12 +240,8 @@ img.Transcript {
 }
 
 @media(max-width : 920px) {
-    div.container{
-        margin-top: -300px;
-    }
 
     .navbar{
-        display: none;
         position: absolute;
         
     }
